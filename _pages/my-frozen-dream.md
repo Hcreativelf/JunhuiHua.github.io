@@ -2,13 +2,14 @@
 title: "My Frozen Dream"
 permalink: /my-frozen-dream/
 excerpt: "My research vision and long-term goals"
-layout: single
+layout: dream  # 使用自定义布局
 author_profile: true
 ---
 
 # My Frozen Dream
 
 Here I will share my long-term research vision, dreams, and aspirations in my academic journey.
+yeah
 
 ## Research Vision
 
